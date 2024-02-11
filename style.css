@@ -1,0 +1,67 @@
+html {
+    background-color: #ffebf7 ;
+}
+.love-light-regular {
+    font-family: "Love Light", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+.Everything {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+.Title-and-buttons{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+h1{
+    display: inline-flex;
+    font-family:"Love Light";
+    color: #ffa8b2;
+    position: absolute;
+    top: 5%;
+}
+.yes-button{
+    position: absolute;
+    top: 15%;
+    right: 870px;
+    font-family: "Love Light";
+    width: 80px;
+    outline-style: solid;
+    outline-color:#ffa8b2;
+    border-radius: 7px;
+    font-size: 18px;
+    font-weight: bold;
+    background-color: #ffebf7;
+    color: #ffa8b2;
+}
+.no-button{
+    position: absolute;
+    top: 15%;
+    left: 870px;
+    font-family: "Love Light";
+    width: 80px;
+    outline-style: solid;
+    outline-color:#ffa8b2;
+    border-radius: 7px;
+    font-size: 18px;
+    font-weight: bold;
+    background-color: #ffebf7;
+    color: #ffa8b2;
+}
+button{
+    border-style: none;
+}
+
+.thegif{
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    top: 200px;
+    width: 100%;
+}
+img{
+    width: 25%;
+}
