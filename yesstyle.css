@@ -1,0 +1,36 @@
+html {
+    background-color: #ffebf7 ;
+}
+div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+h1{
+    color: #ffa8b2;
+    position: absolute;
+    top: 10%;
+}
+h2{
+    color: #ffa8b2;
+    position: absolute;
+    top:14%;
+}
+img{
+    position: absolute;
+    top: 20%;
+}
+button{
+    font-family: "Love Light";
+    width: 100px;
+    outline-style: solid;
+    outline-color:#ffa8b2;
+    border-radius: 7px;
+    font-size: 18px;
+    font-weight: bold;
+    background-color: #ffebf7;
+    color: #ffa8b2;
+    position: absolute;
+    top: 50%;
+    left: 48%;
+} 
